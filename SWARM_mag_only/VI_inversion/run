@@ -1,0 +1,19 @@
+../../../../PhD_project/Wilkes_Subglacial_Basin_WSB/jif3D/bin/jointinv --inclination -1.571 --declination 0 --fieldstrength 40483.4 --mutual_information 100 --magminerr 10 --minsus -0.1 --maxsus 0.1 --scalminerr 2e-5 --mindens -250 --maxdens 250 --dens_covmod density_cov.nc --sus_covmod Susceptibility_cov.nc --coupling_validity MI_cov.nc <<eof 
+start_mag.nc
+1
+0.0
+gravdata.nc
+start_grav.nc
+1.0
+magdata.nc
+start_mag.nc
+0.0
+0.0
+0.0
+0.0
+0.0
+20000
+1
+1
+30
+eof
