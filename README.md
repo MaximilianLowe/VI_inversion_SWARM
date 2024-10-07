@@ -11,7 +11,7 @@ The resulting datasets are published through the UK Polar data centre (coming). 
   <li>Jupyter notebooks to evaluate the inversion results</li>
 </ul>
 
-# Dataset references
+# Related references
 **<ins>SWARM UVA data:<ins>** Jordan, T... PDC publication
 
 **<ins>SWARM UVA data:<ins>** Jordan, T... Research article related to SWARM UVA data Antarctic research url
